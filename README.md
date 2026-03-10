@@ -4,6 +4,4 @@ I am currently pursuing masters in Software Engineering at [Northeastern Univers
 Research Interests: AI Security, Preemptive Security
 
 ## Contact
-Email: m.naeemtahir@hotmail.com
-
 LinkedIn: [https://www.linkedin.com/in/muhammadnaeemtahir/](https://www.linkedin.com/in/muhammadnaeemtahir/)
